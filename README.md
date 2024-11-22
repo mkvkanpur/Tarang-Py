@@ -1,4 +1,4 @@
-# **TARANGPY**
+# **TarangPy**
 
 **Tarang** is a pseudo-spectral solver designed for Hydrodynamic Turbulence. It leverages object-oriented programming and high-performance libraries like **NumPy** and **CuPy** for efficient computations, supporting both CPU and GPU environments. Equipped with a **Graphical User Interface (GUI)** and robust **post-processing** capabilities, Tarang simplifies running simulations and analyzing data, making it an ideal tool for studying turbulence.
 
